@@ -1,0 +1,7 @@
+data/
+*.npy
+*.jp2
+outputs/
+git add .
+git commit -m "Removed large data files and added gitignore"
+git push
